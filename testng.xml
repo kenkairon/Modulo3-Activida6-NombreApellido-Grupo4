@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TaskManagerSuite">
+  <parameter name="titulo" value="Tarea 1"/>
+  <parameter name="descripcion" value="Estudiar TestNG"/>
+  <test name="GestorTareasTest">
+    <classes>
+      <class name="com.taskmanager.service.GestorTareasTest"/>
+    </classes>
+  </test>
+</suite>

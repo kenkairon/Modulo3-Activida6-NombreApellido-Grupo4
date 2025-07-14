@@ -67,6 +67,5 @@ Equipo 4:
     </classes>
   </test>
 
-</suite>    
-
+</suite>
 
